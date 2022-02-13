@@ -1,4 +1,3 @@
-from ctypes.wintypes import INT
 a= "Beatriz"
 b= 10
 c= 4.6
